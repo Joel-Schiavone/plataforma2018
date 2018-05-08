@@ -1,0 +1,17 @@
+{
+    "name": "schiavj/plataforma2018",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joel Leandro Schiavone",
+            "email": "schiavone.joel@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "4.1.1",
+        "components/jquery": "^3.3",
+        "datatables/datatables": "^1.10",
+        "setasign/fpdi": "^2.0"
+    }
+}
